@@ -25,5 +25,4 @@ BFS is widely used in:
 2.Space Complexity: O(V) — space used by the queue and visited nodes
 
 
-**Sample Input:**
 
