@@ -24,5 +24,6 @@ BFS is widely used in:
 1.Time Complexity: O(V + E) — V = number of vertices, E = number of edges
 2.Space Complexity: O(V) — space used by the queue and visited nodes
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/23a9907c-0a46-46f6-ba9a-914d3e03752b" />.png
 
 
