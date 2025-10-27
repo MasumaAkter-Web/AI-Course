@@ -26,4 +26,5 @@ Best First Search is used in various AI and optimization problems, including:
 
 > It is not guaranteed to find the optimal path, as it relies solely on heuristic estimates.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7e0461e0-38f3-4cfc-b93c-6582c14ad4e9" />.png
 
