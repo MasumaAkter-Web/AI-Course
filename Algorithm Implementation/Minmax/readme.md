@@ -27,7 +27,11 @@ Minimax Algorithm is widely used in:
   - 'd' = depth of the tree  
 2.Space Complexity: O(b * d)  
   - Due to recursion and storage of child nodes.
+  - <img width="1366" height="768" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/2f031670-c7bc-4b8d-b89c-6ee3821bdfc9" />Screenshot (101).png
 
-    <img width="1366" height="768" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/9783511b-1347-49f6-bb43-8524ab92a0e9" />
+
+    
+
+  
 
 
