@@ -25,5 +25,6 @@ BDS is used in:
 2Space Complexity: O(b^(d/2)) — stores nodes for both frontiers  
 
 **BDS is faster than BFS for large graphs because it searches from both ends simultaneously.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b991157d-e82e-4509-869b-b03dcea0ba60" />.png
 
 
