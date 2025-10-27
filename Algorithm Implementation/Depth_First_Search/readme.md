@@ -23,6 +23,7 @@ DFS is used in:
 ##  Complexity
 1.Time Complexity: O(V + E) — V = vertices, E = edges  
 2.Space Complexity: O(V) — for stack and visited list
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8c566eed-8103-421a-b3ec-9f460046e1da" />.png
 
 
 
