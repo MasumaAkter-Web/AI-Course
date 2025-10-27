@@ -41,3 +41,5 @@ A classic Chess game where you play as *White* against an intelligent *AI (Black
 
 Human vs AI Chess combines classic gameplay with intelligent AI, providing a challenging experience for players of all levels.  
 The AI uses strategic evaluation to make optimal moves while keeping the game engaging and interactive.
+<img width="970" height="1280" alt="image" src="https://github.com/user-attachments/assets/e0bb0310-f4c7-4537-9c81-104262ec6e14" />.png
+
