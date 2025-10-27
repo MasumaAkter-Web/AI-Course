@@ -38,3 +38,5 @@ A simple yet intelligent Tic Tac Toe game with an unbeatable AI powered by the M
 - Minimax AI logic implemented in Python
   
 Tic Tac Toe AI combines simple gameplay with advanced AI logic, offering a challenging and fun experience for players of all levels.
+<img width="323" height="1280" alt="image" src="https://github.com/user-attachments/assets/47e57191-1eac-410e-b040-7e1d70ccc4cb" />.png
+
