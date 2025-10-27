@@ -23,6 +23,7 @@ DLS is used in:
 ## Complexity
 1.Time Complexity:** O(b^l) — b = branching factor, l = depth limit  
 2.Space Complexity:** O(l) — stores nodes along a single path (stack)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/660db302-2675-412b-94d4-09f85782f3aa" />.png
 
 
 
