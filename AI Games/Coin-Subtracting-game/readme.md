@@ -34,3 +34,4 @@ A strategic turn-based coin game where the player competes against an unbeatable
 
 Coin Subtracting Game offers a simple yet challenging experience, testing your strategic thinking.  
 The AI uses perfect play, making every game a test of planning and foresight.
+<img width="970" height="1280" alt="image" src="https://github.com/user-attachments/assets/ed8e2892-8c65-46ab-b643-b9ddb6ef9dcd" />.png
