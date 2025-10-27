@@ -23,5 +23,6 @@ It is a memory-efficient variation of the Best-First Search algorithm.
 2.Space Complexity: O(b) — only a limited number of nodes are stored  
 
 > Beam Search trades **accuracy for speed** — smaller beam widths run faster but may miss the optimal path.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/409af977-1acc-4c07-8b4a-5a59a453de2b" />.png
 
 
