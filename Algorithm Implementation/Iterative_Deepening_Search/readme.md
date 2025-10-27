@@ -23,5 +23,6 @@ IDS is used in:
 ## Complexity
 1.Time Complexity: O(b^d) — b = branching factor, d = depth of solution  
 2.Space Complexity: O(d) — stores nodes along a single path (stack)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ddc7f6ca-6a26-4f24-9159-34d362c21529" />.png
 
 
