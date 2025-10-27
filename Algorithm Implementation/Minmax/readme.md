@@ -26,5 +26,8 @@ Minimax Algorithm is widely used in:
   - 'b' = branching factor (number of moves per node)  
   - 'd' = depth of the tree  
 2.Space Complexity: O(b * d)  
-  - Due to recursion and storage of child nodes.  
+  - Due to recursion and storage of child nodes.
+
+    <img width="1366" height="768" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/9783511b-1347-49f6-bb43-8524ab92a0e9" />
+
 
