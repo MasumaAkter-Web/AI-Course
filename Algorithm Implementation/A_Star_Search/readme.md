@@ -21,7 +21,7 @@ A* Search is widely used in:
 - Shortest path finding in maps and graphs  
 - AI pathfinding in games (e.g., NPC movement)  
 - Robotics navigation  
-- Route optimization and GPS systems  
+- Route optimization and GPS systems
 
 ## Complexity
 1.Time Complexity: O(E) in the worst case — depends on graph size and heuristic  
@@ -29,3 +29,4 @@ A* Search is widely used in:
 
 *The efficiency of A* heavily depends on the quality of the heuristic.  
 
+  <img width="1366" height="768" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/aa0edb0e-9cf7-49fa-b774-e4e127fd1ff4" />Screenshot (97).png
