@@ -24,6 +24,9 @@ Alpha-Beta Pruning is used mainly in:
 ## ⏱️ Complexity
 1.Time Complexity: O(b^(d/2)) — where *b* is the branching factor and *d* is the depth.  
   > (Much faster than the regular Minimax O(b^d))  
-2.Space Complexity: O(b * d) — due to recursive calls and tree storage.  
+2.Space Complexity: O(b * d) — due to recursive calls and tree storage.
+
+<img width="1366" height="768" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/69f351df-37f4-4d01-b31a-bea531c7ea76" />Screenshot (100).png
+
 
 
