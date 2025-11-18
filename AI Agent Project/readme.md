@@ -33,6 +33,7 @@ This project is a **Research Agent** built using **LangChain**, **Groq LLM**, an
 4. **File Saving:** Saves the research summary to `researchoutput.txt`.
 5. **Graph-based Workflow:** Uses a state graph to handle query processing and LLM reasoning.
 
+## How to run:
 
 ## Installation
 
@@ -95,5 +96,6 @@ What can I help you research? Computer
 ✅ Research output saved to researchoutput.txt
 (myenv) PS C:\Users\Mr Aqeel SB\OneDrive\Desktop\AI_Lab_Agent>
 
-<img width="1366" height="768" alt="Output" src="https://github.com/user-attachments/assets/8096835c-9d0e-4d5d-9af4-c5006ef6d83d" />
+<img width="1035" height="326" alt="Screenshot" src="https://github.com/user-attachments/assets/43afc24c-387f-4aa6-b464-902f0bfd7e19" />
+
 
