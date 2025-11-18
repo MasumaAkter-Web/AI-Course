@@ -43,9 +43,9 @@ This project is a **Research Agent** built using **LangChain**, **Groq LLM**, an
 2.Create a virtual environment and activate it:
 
 python -m venv myenv
-# Windows
+Windows
 myenv\Scripts\activate
-# Linux/macOS
+Linux/macOS
 source myenv/bin/activate
 
 
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 touch .env
 
-###Usage:
+## Usage:
 
 1.Run the main script:
 
@@ -80,7 +80,8 @@ Print the final JSON output in the terminal.
 
 Save it to researchoutput.txt.
 
-###Output:
+## Output:
+
 PS C:\Users\Mr Aqeel SB\OneDrive\Desktop\AI_Lab_Agent> & "C:/Users/Mr Aqeel SB/OneDrive/Desktop/AI_Lab_Agent/myenv/Scripts/Activate.ps1"
 (myenv) PS C:\Users\Mr Aqeel SB\OneDrive\Desktop\AI_Lab_Agent> python Main.py
 What can I help you research? Computer
