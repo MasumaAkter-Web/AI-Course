@@ -54,7 +54,25 @@ source myenv/bin/activate
 
 pip install -r requirements.txt
 
+4.Set Up API Keys:
 
+Your agent may need API keys for external services like Groq LLM or a real search engine.
+
+a.Groq LLM API Key:
+
+Sign up for a Groq account: https://www.groq.ai
+
+Generate an API key in your account dashboard.
+
+b.Google Search API:
+
+Sign up for a Google Cloud account: https://cloud.google.com/
+
+Enable the Custom Search API and generate an API key.
+
+Replace the search_tool in tools.py with real API calls.
+
+c.Store API Keys in .env file:
 
 4.Create a .env file if you need to store API keys or environment variables:
 
