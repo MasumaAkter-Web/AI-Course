@@ -43,15 +43,16 @@ This project is a **Research Agent** built using **LangChain**, **Groq LLM**, an
 2.Create a virtual environment and activate it:
 
 python -m venv myenv
-Windows
+# Windows
 myenv\Scripts\activate
-Linux/macOS
+# Linux/macOS
 source myenv/bin/activate
 
 
 3.Install the required packages:
 
 pip install -r requirements.txt
+
 
 
 4.Create a .env file if you need to store API keys or environment variables:
@@ -62,23 +63,25 @@ touch .env
 
 1.Run the main script:
 
+
 python main.py
 
 
 2.Input your query when prompted:
 
+
 What can I help you research? Computer
 
 
 3.The agent will:
-
 Retrieve data from Wikipedia and simulated web search.
 
 Generate a structured research summary.
 
 Print the final JSON output in the terminal.
 
-Save it to researchoutput.txt.
+Save it to researchoutput.txt
+
 
 ## Output:
 
