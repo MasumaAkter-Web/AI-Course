@@ -94,3 +94,5 @@ What can I help you research? Computer
 
 ✅ Research output saved to researchoutput.txt
 (myenv) PS C:\Users\Mr Aqeel SB\OneDrive\Desktop\AI_Lab_Agent>
+
+https://github.com/MasumaAkter-Web/AI-Course/blob/main/AI%20Agent%20Project/Output.png
